@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.booker.configurationproperties.FileStorageProperties",
+      "name": "file",
+      "type": "com.booker.configurationproperties.FileStorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.booker.configurationproperties.FileStorageProperties",
+      "name": "file.upload-dir",
+      "type": "java.lang.String"
+    }
+  ]
+}
